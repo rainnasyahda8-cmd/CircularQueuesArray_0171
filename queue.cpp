@@ -11,6 +11,6 @@ private:
 public:
     Queues()
     {
-        
+        FRONT = -1
     }
 }
