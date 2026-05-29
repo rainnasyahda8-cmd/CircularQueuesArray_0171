@@ -11,7 +11,12 @@ private:
 public:
     Queues()
     {
-        FRONT = -1
-        REAR = -1
+        FRONT = -1;
+        REAR = -1;
+    }
+
+    void insert()
+    {
+        
     }
 }
